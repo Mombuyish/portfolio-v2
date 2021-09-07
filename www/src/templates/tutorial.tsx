@@ -17,6 +17,8 @@ const tagColorSwitch = (name) => {
       return `yellow`
     case `React`:
       return `teal`
+    case `PHP`:
+      return `twitter`
     default:
       return `gray`
   }

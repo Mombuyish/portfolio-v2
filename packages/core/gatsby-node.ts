@@ -163,7 +163,7 @@ type WritingNode = {
   frontmatter: {
     slug?: string
     image?: string
-    category: "Community" | "Design" | "Gatsby" | "JavaScript" | "React"
+    category: "Community" | "Gatsby" | "JavaScript" | "PHP"
     date: string
     lastUpdated?: string
     description: string

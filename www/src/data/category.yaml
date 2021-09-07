@@ -18,3 +18,7 @@
   description: React is a JavaScript library for building user interfaces. I write about the ecosystem and its tools, about code patterns, and React in general.
   gradient: linear(to-t, cyan.400, cyan.900)
   image: ./category-images/placeholder.jpg
+- name: PHP
+  description: PHP.
+  gradient: linear(to-t, cyan.400, cyan.900)
+  image: ./category-images/placeholder.jpg
