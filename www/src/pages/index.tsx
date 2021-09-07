@@ -104,14 +104,11 @@ const Index: React.FC<PageProps<DataProps>> = ({ data }) => {
       <SkipNavContent>
         <FullWidthContainer variant="hero">
           <Stack align="center" spacing="5" py={space.paddingLarge}>
-            <Heading as="h1">Hi, I’m Lennart!</Heading>
+            <Heading as="h1">Hi, I’m Yish!</Heading>
             <Text variant="prominent" maxWidth="45ch" textAlign="center">
-              <strong>Software Engineer</strong> from Darmstadt, Germany. <br />
-              I’m passionate about working on open source products & building thriving communities around them.
-            </Text>
-            <Text variant="prominent" maxWidth="40ch" textAlign="center">
-              I’m currently working remotely at <ChakraLink href="https://www.gatsbyjs.com">Gatsby</ChakraLink> on the
-              open source project.
+              <strong>Software Engineer, The Minimalist</strong> from Taipei, Taiwan. <br />
+              I’m passionate about working on solving problems, also I love learning new things and new ways of solving
+              problems.
             </Text>
           </Stack>
         </FullWidthContainer>
